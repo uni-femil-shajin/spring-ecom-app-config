@@ -9,5 +9,5 @@ eureka:
 
 okta:
   oauth2:
-    issuer: https://dev-31954435.okta.com/oauth2/default
+    issuer: https://femilshajin.auth0.com
     audience: api://default
